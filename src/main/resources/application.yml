@@ -1,0 +1,13 @@
+jwt:
+    expire-time: 3600
+    header: X-API-TOKEN
+    signing-key: BDJvVGFvgDGvHGFVF
+spring:
+    datasource:
+        driverClassName: com.mysql.cj.jdbc.Driver
+        # Use a strong password in real world
+        password: secure-password
+        url: jdbc:mysql://localhost/thiscrush
+        username: spring
+    jpa:
+        database-platform: org.hibernate.dialect.MySQLDialect
