@@ -1,6 +1,6 @@
 package it.simonesestito.tsclone.model.dto;
 
-import com.sun.istack.internal.NotNull;
+import javax.validation.constraints.NotNull;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

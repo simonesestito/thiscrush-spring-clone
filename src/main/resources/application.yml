@@ -11,3 +11,5 @@ spring:
         username: spring
     jpa:
         database-platform: org.hibernate.dialect.MySQLDialect
+server:
+        contextPath: /thiscrush

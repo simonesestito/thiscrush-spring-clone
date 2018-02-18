@@ -9,6 +9,7 @@ A Spring RESTful service similar to the popular thiscrush website
 - <code>./mvnw spring-boot:run</code>
 
 ## API Endpoints
+Base URL: http://localhost:8080/thiscrush
 
 ### POST /register
 Request: SignUpUser
