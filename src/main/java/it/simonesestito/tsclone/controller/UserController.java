@@ -2,7 +2,7 @@ package it.simonesestito.tsclone.controller;
 
 import it.simonesestito.tsclone.Utils;
 import it.simonesestito.tsclone.model.db.User;
-import it.simonesestito.tsclone.model.dto.*;
+import it.simonesestito.tsclone.model.entity.*;
 import it.simonesestito.tsclone.service.UserService;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

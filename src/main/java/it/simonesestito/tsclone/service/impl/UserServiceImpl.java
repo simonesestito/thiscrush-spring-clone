@@ -2,8 +2,8 @@ package it.simonesestito.tsclone.service.impl;
 
 import it.simonesestito.tsclone.jwt.JwtUtils;
 import it.simonesestito.tsclone.model.db.User;
-import it.simonesestito.tsclone.model.dto.LoginResult;
-import it.simonesestito.tsclone.model.dto.LoginUser;
+import it.simonesestito.tsclone.model.entity.LoginResult;
+import it.simonesestito.tsclone.model.entity.LoginUser;
 import it.simonesestito.tsclone.repository.UserRepository;
 import it.simonesestito.tsclone.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

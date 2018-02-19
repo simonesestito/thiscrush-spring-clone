@@ -1,4 +1,4 @@
-package it.simonesestito.tsclone.model.dto;
+package it.simonesestito.tsclone.model.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
