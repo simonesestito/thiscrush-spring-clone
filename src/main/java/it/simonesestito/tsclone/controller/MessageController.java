@@ -3,7 +3,7 @@ package it.simonesestito.tsclone.controller;
 import it.simonesestito.tsclone.Utils;
 import it.simonesestito.tsclone.model.entity.Message;
 import it.simonesestito.tsclone.model.entity.User;
-import it.simonesestito.tsclone.model.dto.MessageInputDto;
+import it.simonesestito.tsclone.model.dto.input.MessageInputDto;
 import it.simonesestito.tsclone.model.dto.MessageResult;
 import it.simonesestito.tsclone.model.dto.SimpleResult;
 import it.simonesestito.tsclone.service.MessageService;

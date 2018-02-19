@@ -1,6 +1,8 @@
 package it.simonesestito.tsclone.controller;
 
 import it.simonesestito.tsclone.Utils;
+import it.simonesestito.tsclone.model.dto.input.LoginUser;
+import it.simonesestito.tsclone.model.dto.input.SignUpUser;
 import it.simonesestito.tsclone.model.entity.User;
 import it.simonesestito.tsclone.model.dto.*;
 import it.simonesestito.tsclone.service.UserService;

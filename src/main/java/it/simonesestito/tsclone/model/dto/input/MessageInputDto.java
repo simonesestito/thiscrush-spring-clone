@@ -1,4 +1,4 @@
-package it.simonesestito.tsclone.model.dto;
+package it.simonesestito.tsclone.model.dto.input;
 
 import javax.validation.constraints.NotNull;
 import lombok.Getter;
