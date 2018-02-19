@@ -1,6 +1,6 @@
 package it.simonesestito.tsclone.service;
 
-import it.simonesestito.tsclone.model.db.Message;
+import it.simonesestito.tsclone.model.entity.Message;
 
 import java.util.List;
 

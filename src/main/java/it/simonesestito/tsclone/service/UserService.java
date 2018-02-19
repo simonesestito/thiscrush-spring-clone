@@ -1,6 +1,6 @@
 package it.simonesestito.tsclone.service;
 
-import it.simonesestito.tsclone.model.db.User;
+import it.simonesestito.tsclone.model.entity.User;
 import it.simonesestito.tsclone.model.dto.LoginResult;
 import it.simonesestito.tsclone.model.dto.LoginUser;
 

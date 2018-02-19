@@ -1,6 +1,6 @@
 package it.simonesestito.tsclone.repository;
 
-import it.simonesestito.tsclone.model.db.User;
+import it.simonesestito.tsclone.model.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

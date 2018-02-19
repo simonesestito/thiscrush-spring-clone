@@ -1,6 +1,6 @@
 package it.simonesestito.tsclone.service.impl;
 
-import it.simonesestito.tsclone.model.db.User;
+import it.simonesestito.tsclone.model.entity.User;
 import it.simonesestito.tsclone.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,8 +1,8 @@
 package it.simonesestito.tsclone.service.impl;
 
 import it.simonesestito.tsclone.Utils;
-import it.simonesestito.tsclone.model.db.Message;
-import it.simonesestito.tsclone.model.db.User;
+import it.simonesestito.tsclone.model.entity.Message;
+import it.simonesestito.tsclone.model.entity.User;
 import it.simonesestito.tsclone.repository.MessageRepository;
 import it.simonesestito.tsclone.service.MessageService;
 import it.simonesestito.tsclone.service.UserService;

@@ -1,7 +1,7 @@
 package it.simonesestito.tsclone.controller;
 
 import it.simonesestito.tsclone.Utils;
-import it.simonesestito.tsclone.model.db.User;
+import it.simonesestito.tsclone.model.entity.User;
 import it.simonesestito.tsclone.model.dto.*;
 import it.simonesestito.tsclone.service.UserService;
 import org.modelmapper.ModelMapper;

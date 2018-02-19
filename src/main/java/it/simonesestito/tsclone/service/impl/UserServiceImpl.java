@@ -1,7 +1,7 @@
 package it.simonesestito.tsclone.service.impl;
 
 import it.simonesestito.tsclone.jwt.JwtUtils;
-import it.simonesestito.tsclone.model.db.User;
+import it.simonesestito.tsclone.model.entity.User;
 import it.simonesestito.tsclone.model.dto.LoginResult;
 import it.simonesestito.tsclone.model.dto.LoginUser;
 import it.simonesestito.tsclone.repository.UserRepository;
